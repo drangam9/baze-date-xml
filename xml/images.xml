@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <HeaderText>
+        <HeaderText>Razvan jpeg</HeaderText>
+    </HeaderText>
+    <Image>
+        <img width="100" height="100" alt="bla bla" src="images/uaic.jpg"/>
+    </Image>
+    <BodyText>
+        <p>This is a test of the body text<br  /></p>
+    </BodyText>
+</root>

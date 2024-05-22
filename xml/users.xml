@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE users SYSTEM "users.dtd">
+<users>
+	<user>
+        <image>./images/d31b0bb33297112bc90ecb82b6575f23PicsArt_11-04-11.02.45.png</image>
+		<id>1</id>
+		<email>a@aa</email>
+		<firstName>Johnasd</firstName>
+		<lastName>Does</lastName>
+		<password>123</password>
+		<edit>
+			edit.php?id=1
+		</edit>
+		<delete>
+			delete.php?id=1
+		</delete>
+		<confirm>
+			return confirm('Are you sure you want to delete this user?');
+		</confirm>
+	</user>
+	
+	<user>
+		<id>
+			3
+		</id>
+		<firstName>
+			a
+		</firstName>
+		<lastName>a</lastName>
+		<email>a@a</email>
+		<password>$2y$10$.rFnLJLOI/Oscg23YVIS.OeDDaNrrZD49uUnzPLKnFGSSgkA/JzW.</password>
+		<edit>
+			edit.php?id=3
+		</edit>
+		<delete>
+			delete.php?id=3
+		</delete>
+		<confirm>
+			return confirm('Are you sure you want to delete this user?');
+		</confirm>
+	</user>
+	<user>
+		<id>
+			4
+		</id>
+		<firstName>a</firstName>
+		<lastName>a</lastName>
+		<email>a@b</email>
+		<password>$2y$10$w.RGpMDyitwdooHjnJBnhe85mb7/b5LOhbSFzleUMwQzVU2Q.arZS</password>
+		<edit>
+			edit.php?id=4
+		</edit>
+		<delete>
+			delete.php?id=4
+		</delete>
+		<confirm>
+			return confirm('Are you sure you want to delete this user?');
+		</confirm>
+	<image>./images/1de5f893007fcc3f1b40ebef9a18172b</image></user>
+	<user>
+		<id>
+			5
+		</id>
+		<firstName>
+			a
+		</firstName>
+		<lastName>
+			a
+		</lastName>
+		<email>
+			a@c
+		</email>
+		<password>$2y$10$wnwddgqL0M7OwME7nixdkOWZTEqnaOpwJacYRpXXY/y7JNVpNnjvO</password>
+		<edit>
+			edit.php?id=5
+		</edit>
+		<delete>
+			delete.php?id=5
+		</delete>
+		<confirm>
+			return confirm('Are you sure you want to delete this user?');
+		</confirm>
+	</user>
+	<user>
+		<id>
+			6
+		</id>
+		<firstName/>
+		<lastName/>
+		<email>a@a</email>
+		<password>$2y$10$WZWm6w3zj2Ljtk3DSaxLR.ogVNydSLIYKpXRFcihqwIi74h95PixW</password>
+		<edit>
+			edit.php?id=6
+		</edit>
+		<delete>
+			delete.php?id=6
+		</delete>
+		<confirm>
+			return confirm('Are you sure you want to delete this user?');
+		</confirm>
+	<image>./images/019d3cc212949a10e696e7de07b9e6f4</image></user>
+	<user>
+		<id>
+			7
+		</id>
+		<firstName>asd</firstName>
+		<lastName>a</lastName>
+		<email>a@a</email>
+		<password>a</password>
+		<edit>edit.php?id=7</edit>
+		<delete>delete.php?id=7</delete>
+		<confirm>
+			return confirm('Are you sure you want to delete this user?');
+		</confirm>
+	<image>./images/a8a210262bd0bdef94af2dcf0e69ead0</image></user>
+	
+<user><image>./images/uaic.jpg</image><id>8</id><firstName>a</firstName><lastName>a</lastName><email>a@d</email><password>a</password><edit>edit.php?id=8</edit><delete>delete.php?id=8</delete><confirm>return confirm('Are you sure you want to delete this user?');</confirm></user><user><image>./images/uaic.jpg</image><id>9</id><firstName>a</firstName><lastName>a</lastName><email>a@a</email><password>a</password><edit>edit.php?id=9</edit><delete>delete.php?id=9</delete><confirm>return confirm('Are you sure you want to delete this user?');</confirm></user></users>
